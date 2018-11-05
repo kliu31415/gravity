@@ -2,3 +2,5 @@ This is a gravity simulator. This can read in data files in a specific format, w
 There are two types of objects that can be created. They are listed below with the respective arguments.
 star: star x y radius mass dx dy color_r color_g color_b color_a
 spiral galaxy: spiral x y r star_mass supermassive_blackhole_mass star_count star_speed galaxy_size color_r color_g color_b color_a
+
+example: https://youtu.be/gwt1wiDNxL4
